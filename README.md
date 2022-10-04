@@ -14,3 +14,6 @@ Számozott lista
 print(hello)
 
 `egysoros kód` 
+
+
+R2D2 
